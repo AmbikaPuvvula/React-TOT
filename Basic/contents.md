@@ -1,0 +1,31 @@
+# Web Desigining using react JS
+
+- HTML
+  - Version - Doctype
+  - Head
+    - title
+    - link(favicon,css(tomorrow))
+    - meta
+    - script
+  - Body
+    - Block-level elements
+      - Headings(h1-h6)
+      - paragraph
+      - Ordered list and list items(ul,ol,dl)
+      - Division
+      - Table,tr,caption
+      - Options is block level
+      - form
+      - semantic elements(tomorrow)
+    - Inline elements
+      - All form controls
+        - Input types
+        - Select is Inline
+        - styling elements
+        - span
+        - images
+- CSS
+- Bootstrap
+- Java Script
+- React JS
+- Redux
