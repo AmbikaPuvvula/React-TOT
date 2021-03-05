@@ -16,7 +16,14 @@
       - Table,tr,caption
       - Options is block level
       - form
-      - semantic elements(tomorrow)
+      - semantic elements(Having specific meaning for the element = Division(div)+special meaning)
+        - Header
+        - Footer
+        - Nav
+        - Main
+        - Section
+        - Article
+        - Aside
     - Inline elements
       - All form controls
         - Input types
@@ -24,7 +31,27 @@
         - styling elements
         - span
         - images
+        - Navigation
+          - In- bound(Navigating within documents)
+          - Out - bound(navigating between the documents)
+          - mailto(specifying emails)
+          - tel(specifying mobile numbers)
 - CSS
+  - systax
+  - Kinds
+    - Inline
+    - Internal
+    - External
+  - selectors
+    - element selector
+      - defined with the tagname  
+        `body{ background: red; }`
+    - Id selector
+      - `#idname{ background: red;}`
+    - class selector
+      - `.classname{ background: red;}`
+    - Universal selector
+      - `*{ background: red;}`
 - Bootstrap
 - Java Script
 - React JS
