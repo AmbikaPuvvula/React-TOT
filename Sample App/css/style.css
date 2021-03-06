@@ -1,0 +1,41 @@
+.card-body {
+  border: 1px solid burlywood;
+  padding: 1%;
+  margin: 1%;
+  text-align: center;
+  width: 30%;
+  border-radius: 10%;
+  box-shadow: 2px 3px 5px black;
+}
+
+.card {
+  display: flex;
+  /* flex-direction: row; */
+  /* border-radius: 10%; */
+}
+
+/* img {
+  display: block;
+  margin-left: auto;
+} */
+
+h3 {
+  color: chocolate;
+  font-size: 30px;
+}
+
+s {
+  color: red;
+}
+
+p {
+  color: blue;
+}
+
+button {
+  color: chartreuse;
+  background-color: cornflowerblue;
+  padding: 2% 5%;
+  cursor: pointer;
+  font-size: 15px;
+}

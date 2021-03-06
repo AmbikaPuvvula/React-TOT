@@ -56,3 +56,30 @@
 - Java Script
 - React JS
 - Redux
+
+# Day 3(05th March 2020)
+
+- Media Queries and Flex box(responsove designing)
+
+## Flexbox
+
+- padding property
+  - padding(top,right,bottom,left) --> Order
+- Flex Properties
+  - display
+    - flex should be given if we use flex properties
+  - Flex direction
+    - row
+    - row reverse
+    - column
+    - column reverse
+  - Justify Content
+    - flex-start
+    - flex-end
+    - center
+    - space-between
+    - space-around
+  - flex-wrap
+    - wrap (applys only when the viewport is there)
+    - nowrap
+    - wrap-reverse
